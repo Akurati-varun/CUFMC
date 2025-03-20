@@ -1,9 +1,0 @@
-{
-  "routes": {
-    "/": {},
-    "/login": {},
-    "/manager-dashboard": {},
-    "/reward": {},
-    "/student-dashboard": {}
-  }
-}
